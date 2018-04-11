@@ -1,2 +1,2 @@
 # bulksms
-This is a plain bulk sms application
+This portion is adding delivery reports to the project
